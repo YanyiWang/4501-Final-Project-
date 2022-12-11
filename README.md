@@ -1,5 +1,6 @@
-# IEOR 4501 Final Project for Group 
+# IEOR 4501 Final Project for Group 34
 ## UNIs [yw3949,zw2865]
+
 This is final project repository for Tools for Analytics: Python
 In this project, we explores yellow taxi and uber trip datas from 2009-2015, and with combined information from past weather data.
 We load and clean each datasetx and create sqlite datadase for each. Then we answer few statistical questions using query and visualizations.
@@ -9,6 +10,11 @@ The project contains 4 parts
 3. Unserstanding data
 4. Visualizing data
 
+## Installation 
+
+```
+$ pip install -r requirements.txt
+```
 ## Data 
 1. Uber rides: a sample of Uber rides from 01-2009 through 06-2015 can be downloaded from [here](https://drive.google.com/file/d/1F7D82w1D5151GXCR6BTEk7mNQ_YnPNDk/view?usp=sharing)
 
