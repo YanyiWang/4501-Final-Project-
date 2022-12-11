@@ -1,5 +1,5 @@
 # IEOR 4501 Final Project for Group 
-## UNIs[yw3949,zw2865]
+## UNIs [yw3949,zw2865]
 This is final project repository for Tools for Analytics: Python
 In this project, we explores yellow taxi and uber trip datas from 2009-2015, and with combined information from past weather data.
 We load and clean each datasetx and create sqlite datadase for each. Then we answer few statistical questions using query and visualizations.
