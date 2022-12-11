@@ -7,9 +7,6 @@ pandas
 geopandas
 requests
 sqlalchemy
-re
-os
-glob
 stat
 scipy
 ipywidgets
