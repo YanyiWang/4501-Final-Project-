@@ -1,0 +1,16 @@
+math
+jupyter
+beatifulsoup4
+matplotlib
+numpy
+pandas
+geopandas
+requests
+sqlalchemy
+re
+os
+glob
+stat
+scipy
+ipywidgets
+datetime
