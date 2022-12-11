@@ -14,7 +14,7 @@ The project contains 4 parts
 
 2.Historical weather data: the complete catalog of local climatological data for 2009 through 2015, plus the dataset’s documentation, can be found [here](https://drive.google.com/drive/folders/1I_Cj3RFHRGcQjb5Gas06buqRbKodIwKC?usp=sharing)
 
-3.Yellow Taxi trip data: use this URL to download the CSV Parquet files needed for the project by web scrapping,[here](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+3.Yellow Taxi trip data: use this URL to download the CSV Parquet files needed for the project by web scrapping, [here](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 4. Find & download the “Taxi Zone Shapefile (PARQUET)” file among the NYC Taxi record data [here] (https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) It will be a zip file. Unzip the zip file, and place all the contents in the same directory as your project’s notebook. 
 
