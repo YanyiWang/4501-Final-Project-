@@ -11,5 +11,3 @@ stat
 scipy
 ipywidgets
 datetime
-cufflinks
-plotly
