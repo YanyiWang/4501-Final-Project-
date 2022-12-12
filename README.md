@@ -26,3 +26,6 @@ $ pip install -r requirements.txt
 
 Each Parquet file may take a few minutes or more to download, depending on your internet speed.
 
+## Contribution
+1. Yanyi Wang: Part1(taxi) Part2 Part4
+2. Zhonghao Wang: Part1(uber&weather) Part3 Extra Credit
